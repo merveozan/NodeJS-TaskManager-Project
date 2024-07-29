@@ -2,7 +2,7 @@
 # NodeJS Task Manager Project
 
 ## Description
-This project is a Task Manager application built using Node.js. It provides functionalities for managing tasks, including creating, updating, deleting, and viewing tasks.
+This project is a Task Manager application built using NodeJs and MongoDB. It provides functionalities for managing tasks, including creating, updating, deleting, and viewing tasks.
 
 ## Features
 - Create a new task
